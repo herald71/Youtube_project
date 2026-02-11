@@ -1,0 +1,16 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# Your rule content
+
+- 주석은 한글로 상세히 달아줘
+- 상단에 프로그램 설명 꼭 적어줘
+
+# GPT를 연동할때(챗GPT)
+- GPT를 연동할 때는 항상 모델 이름을 'gpt-4o' 로 설정해줘
+- PHP에서 GPT 를 연동할 때는 curl로 코드를 작성하세요.
+- 기본적인 API 키는 '[나의 API 키를 여기에 입력]' 를 사용하세요.
+

@@ -1,0 +1,25 @@
+# Python 관련 공통 무시 파일
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 가상환경
+.venv/
+venv/
+
+# 환경변수 파일
+.env
+
+# 빌드/배포 산출물 (용량이 매우 큼)
+dist/
+build/
+*.exe
+*.pyz
+*.pkg
+*.zip
+
+# 기타 IDE/도구 설정
+.VSCodeCounter/
+.idea/
+.vscode/
+
